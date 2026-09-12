@@ -9,10 +9,6 @@ html, body {
 #main{
     height: 100%;
     width: 100%;
-    /* THIS IS NOT USING BEACUSE I WANT SET THE CARDS 1 BY 1 UP.*/
-    /*display: flex;
-    align-items: center;
-    justify-content: center;*/
 }
 .card{
     position: absolute;
